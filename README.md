@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Mario Avila, I’m from Venezuela, currently living in the Dominican Republic.
-- 👀 I’m mainly interested in economics, finance, football (some of you may call it soccer 🙄) and music (not only listening but making it too).
-- 🌱 I’m currently learning Economics, finance, econometrics, coding and other related subjects.
-- 📫 How to reach me @marioavilalr on instagram. avilamario0301@gmail.com it’s my personal email.
+👋 Hi, I’m Mario Avila, I’m from Venezuela, currently living in the Dominican Republic.
+📫 How to reach me @marioavilalr on instagram. avilamario0301@gmail.com it’s my personal email.
